@@ -8,8 +8,8 @@
 </head>
 <body>
     <?php
-
-        echo "Hola";
+        $nombre = $_GET['nombre'];
+        echo "Hola " . $nombre ;
     ?>
 </body>
 </html>

@@ -9,7 +9,7 @@
 <body>
     <?php
         $nombre = $_GET['nombre'];
-        echo "Hola " . $nombre ;
+        echo "Hola " . $nombre . ", buenas tardes" ;
     ?>
 </body>
 </html>

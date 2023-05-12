@@ -9,5 +9,7 @@
     <?php
         echo "Bienvenido " . $_GET['nombre'];
     ?>
+
+    asdasdasdas
 </body>
 </html>
